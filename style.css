@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url("cam.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#heading{
+    font-size: xx-large;
+    font-style:italic ;
+}
+#status , #found
+{
+font-size: 18px;
+}
